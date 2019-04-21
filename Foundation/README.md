@@ -3,7 +3,7 @@
 
 - [主要内容](#)
   - [世界观/World Views ](#)
-    - [背景故事/Back Story](#)
+    - [背景故事/Back Story](https://github.com/UnknownDomainGame/Document/blob/master/Foundation/%E4%B8%96%E7%95%8C%E8%A7%82/%E8%83%8C%E6%99%AF%E6%95%85%E4%BA%8B.md)
   - [控制与界面/Control & UI](#)
     - [默认键位](#)
       - [基石占用键位](#)
