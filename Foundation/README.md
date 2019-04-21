@@ -16,7 +16,7 @@
       - [合成界面](#)
       - [背包界面](#)
   - [玩家](#)
-    - [营养](#)
+    - [营养](https://github.com/UnknownDomainGame/Document/blob/master/Foundation/%E7%8E%A9%E5%AE%B6/%E8%90%A5%E5%85%BB.md)
     - [属性](#)
       - [增长方案](#)
     - [负面影响](#)
